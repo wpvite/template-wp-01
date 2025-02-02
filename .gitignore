@@ -1,0 +1,14 @@
+.env
+.htaccess
+composer.lock
+
+# Ignore Wordpress files
+wp/
+/content/*/*
+
+# Track following files from themes
+!/content/themes/wpvite/
+!/content/themes/wpvite-child/
+
+# Track following files from plugins
+!/content/mu-plugins/wpvite/
