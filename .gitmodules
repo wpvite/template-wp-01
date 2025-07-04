@@ -1,3 +1,0 @@
-[submodule "content/mu-plugins"]
-	path = content/mu-plugins
-	url = git@github.com:wpvite/wpvite-bridge-mu-plugin.git
